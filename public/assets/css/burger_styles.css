@@ -1,0 +1,66 @@
+body{
+    background: #dd1021;
+}
+.jumbotron {
+    background: #ffc300;
+    color: #dd1021;
+    font-family: 'Baloo Bhai', cursive;
+    padding: 20px;
+    text-shadow: -3px 0 white, 0 3px white, 3px 0 white, 0 -3px white;
+}
+
+header h1 {
+    font-size: 65px !important;
+}
+
+.container {
+    max-width: 960px;
+    background: #FBBA72;
+    padding: 20px;
+    margin-bottom: 2rem;
+}
+
+.col-6 h2 {
+    color: #dd1021;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+    font-family: 'Baloo Bhai', cursive;
+    text-align: center;
+}
+
+ol {
+    font-size: 20px;
+}
+
+li {
+    margin-bottom: 15px;
+}
+
+.devour-btn {
+
+    background: #ffc300;
+    color: #dd1021;
+    float: right;
+    clear: both;
+}
+
+.devour-btn:hover {
+    color: white;
+}
+
+.form-container {
+    max-width: 576px;
+    overflow: auto;
+}
+
+.form-container h2 {
+    color: #dd1021;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+    font-family: 'Baloo Bhai', cursive;
+    text-align: center;
+}
+
+#submitBtn {
+
+    float: right;
+    
+}
